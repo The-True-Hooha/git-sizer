@@ -10,3 +10,7 @@ declare global {
 }
 
 export {};
+
+//TODO: setup tailwind init
+//TODO: setup home page
+
